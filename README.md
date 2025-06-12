@@ -36,8 +36,5 @@ A responsive web-based calculator that helps users estimate their off-grid solar
 - Responsive design works on all devices
 - Data persists in browser storage
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Cellerx101/Solar---calculator.git](https://github.com/Cellerx101/Solar---calculator.git)
+##ACCESS 
+https://github.com/Cellerx101/Solar---calculator
