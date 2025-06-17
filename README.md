@@ -37,4 +37,4 @@ A responsive web-based calculator that helps users estimate their off-grid solar
 - Data persists in browser storage
 
 ##ACCESS 
-https://github.com/Cellerx101/Solar---calculator
+https://cellerx101.github.io/Solar---calculator/
